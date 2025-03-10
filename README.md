@@ -2,7 +2,9 @@
 
 This repository serves as a personal tracker for labs and projects I've found interesting and educational while completing the Google Cybersecurity Certificate.
 
-## Lab 1: Create Hash Value
+<details>
+<summary>Lab 1: Create Hash Values</summary>
+
 *Details of this project can be found in the repository under the same file name*
 
 ### Overview
@@ -24,3 +26,6 @@ In this lab, I explored file hashing and comparison by performing the following 
      ```bash
      analyst@df6a534a0ea1:~$ cmp file1hash file2hash 
      file1hash file2hash differ: char 1, line 1
+
+Result: Through this command I notice that the hashes are diffrent at first character in the first line.
+</details>
